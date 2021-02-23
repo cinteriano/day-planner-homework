@@ -34,7 +34,7 @@ textarea{
 
 .row {
   white-space: pre-line;
-  height: 80px;
+  height: 50px;
   border-top: 1px solid white;;
   --bs-gutter-y: 0;
   --bs-gutter-x: 0;
